@@ -108,15 +108,15 @@ My current flagship project — a seamless mobility/logistics platform designed 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Khawaja-Abdullah-Tariq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06090f&title_color=a78bfa&icon_color=7c5cfc&text_color=cdd6f4&border_radius=4" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mkat11590-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06090f&title_color=a78bfa&icon_color=7c5cfc&text_color=cdd6f4&border_radius=4" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Khawaja-Abdullah-Tariq&layout=compact&theme=tokyonight&hide_border=true&bg_color=06090f&title_color=a78bfa&text_color=cdd6f4&border_radius=4" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkat11590-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=06090f&title_color=a78bfa&text_color=cdd6f4&border_radius=4" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Muhammad-Khawaja-Abdullah-Tariq&theme=tokyonight&hide_border=true&background=06090f&ring=7c5cfc&fire=a78bfa&currStreakLabel=a78bfa&border_radius=4" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mkat11590-svg&theme=tokyonight&hide_border=true&background=06090f&ring=7c5cfc&fire=a78bfa&currStreakLabel=a78bfa&border_radius=4" alt="GitHub Streak"/>
 
 </div>
 
