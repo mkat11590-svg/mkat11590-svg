@@ -80,7 +80,6 @@ I'm a **Final Year Computer Science Engineer** with a deep focus on building sys
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 </p>
 
@@ -95,53 +94,9 @@ I'm a **Final Year Computer Science Engineer** with a deep focus on building sys
 ### 🚗 MovEase *(Active)*
 My current flagship project — a seamless mobility/logistics platform designed for real-world usability, built with clean architecture and a user-first philosophy.
 
-`React` `Node.js` `MongoDB` `Full-Stack`
+`Java` `HTML/CSS` `JS` `PHP` `Andriod` `Full-Stack`
 
 🔗 [View Portfolio](https://muhammad-khawaja-abdullah-tariq.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌫️ Smog Eater — Smart Billboard
-IoT-integrated smart billboard with real-time air quality sensing and adaptive display management. Presented at the **PMI Student Competition** as Technical Lead.
-
-`IoT` `Embedded Systems` `Arduino` `Real-time`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Enterprise Web Platform
-RBAC-enabled enterprise application with microservices architecture, MySQL backend, REST APIs, and multi-role dashboards — built during internship at **Alliance Tech Pvt Ltd** for international clients.
-
-`MERN` `MySQL` `RBAC` `Microservices`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Socket-Based Distributed Calculator
-Real-time client-server calculator via Java socket programming with concurrent request handling and multi-threaded architecture — demonstrating distributed computing fundamentals.
-
-`Java` `Sockets` `Multi-threading` `Networking`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Cross-Platform Mobile App
-Feature-rich mobile application built with **.NET MAUI**, delivering native UX on Android & Windows with shared business logic and offline-first data architecture.
-
-`.NET MAUI` `C#` `SQLite` `Android SDK`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AI-Powered Interface System *(WIP)*
-Intelligent interface layer connecting AI automation APIs to adaptive frontend systems — UI responds to live user behavior and data patterns in real time.
-
-`React` `Node.js` `AI Automation` `Three.js`
 
 </td>
 </tr>
@@ -226,7 +181,7 @@ If you're hiring for a remote dev role, looking for freelance collaboration, or 
 
 ```
 // MKAT.OS v4.0 — System online. Build mode: ACTIVE.
-// 20+ projects shipped · Lahore, Pakistan · Open to remote
+// 5+ projects shipped · Lahore, Pakistan · Open to remote
 // Currently: MovEase 🚗  ·  Learning: AI Automation 🤖
 // "Performance validated in production."
 ```
