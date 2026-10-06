@@ -32,7 +32,7 @@ I'm a **Final Year Computer Science Engineer** with a deep focus on building sys
 - 🌱 **Currently learning:** AI Automation & Intelligent Interface Design
 - 👯 **Looking to collaborate on:** FYP projects and innovative open-source systems
 - 💼 **Open to:** Remote opportunities, internships, and freelance collaboration
-- 👨‍💻 **All projects:** [muhammad-khawaja-abdullah-tariq.vercel.app](https://muhammad-khawaja-abdullah-tariq.vercel.app/)
+- 👨‍💻 **All projects:** added soon
 - 🌍 **Long-term goal:** Working with diverse, innovative tech teams globally
 - 🧩 **Core identity:** ISTP · Enneagram Type 5w · Analyst · Creative Systems Architect
 - 💬 **Ask me about:** Any problem that needs to be addressed — I turn complexity into clean systems
